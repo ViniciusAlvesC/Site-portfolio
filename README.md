@@ -9,4 +9,3 @@ Página criada para ser usada de portfolio, mostrar projetos, conhecimentos, for
 #### Bootstrap 
 #### Javascript 
 #### Normalize.css 
-(usado para resetar configurações iniciais do navegador sobre o CSS, diminuindo a diferença de estilo de cada navegador, deixando a página com menos diferenças em cada navegador.)
